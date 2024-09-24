@@ -1,16 +1,105 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "John Doe",
+    "country": "USA",
+    "availableDates": ["2024-09-20", "2024-09-21", "2024-09-22"]
+  },
+  {
+    "name": "Jane Smith",
+    "country": "USA",
+    "availableDates": ["2024-09-21", "2024-09-22", "2024-09-23"]
+  },
+  {
+    "name": "Mark Lee",
+    "country": "USA",
+    "availableDates": ["2024-09-22", "2024-09-23", "2024-09-24"]
+  },
+  {
+    "name": "Emily Davis",
+    "country": "USA",
+    "availableDates": ["2024-09-21", "2024-09-22"]
+  },
+  {
+    "name": "Alice Johnson",
+    "country": "Canada",
+    "availableDates": ["2024-09-22", "2024-09-23"]
+  },
+  {
+    "name": "Bob Brown",
+    "country": "Canada",
+    "availableDates": ["2024-09-23", "2024-09-24"]
+  },
+  {
+    "name": "Charlie Green",
+    "country": "Canada",
+    "availableDates": ["2024-09-21", "2024-09-22", "2024-09-23"]
+  },
+  {
+    "name": "Dana White",
+    "country": "Canada",
+    "availableDates": ["2024-09-22", "2024-09-23", "2024-09-24"]
+  },
+  {
+    "name": "Ethan Young",
+    "country": "UK",
+    "availableDates": ["2024-09-18", "2024-09-19"]
+  },
+  {
+    "name": "Grace Kelly",
+    "country": "UK",
+    "availableDates": ["2024-09-19", "2024-09-20"]
+  },
+  {
+    "name": "Harry Wilson",
+    "country": "UK",
+    "availableDates": ["2024-09-18", "2024-09-19", "2024-09-20"]
+  },
+  {
+    "name": "Isabella Brown",
+    "country": "UK",
+    "availableDates": ["2024-09-19", "2024-09-20", "2024-09-21"]
+  },
+  {
+    "name": "Jack Robinson",
+    "country": "Australia",
+    "availableDates": ["2024-09-24", "2024-09-25"]
+  },
+  {
+    "name": "Karen Hill",
+    "country": "Australia",
+    "availableDates": ["2024-09-24", "2024-09-25", "2024-09-26"]
+  },
+  {
+    "name": "Liam Harris",
+    "country": "Australia",
+    "availableDates": ["2024-09-25", "2024-09-26"]
+  },
+  {
+    "name": "Mia Clark",
+    "country": "Australia",
+    "availableDates": ["2024-09-24", "2024-09-25", "2024-09-26"]
+  },
+  {
+    "name": "Noah Martinez",
+    "country": "Germany",
+    "availableDates": ["2024-09-17", "2024-09-18"]
+  },
+  {
+    "name": "Olivia Hernandez",
+    "country": "Germany",
+    "availableDates": ["2024-09-18", "2024-09-19", "2024-09-20"]
+  },
+  {
+    "name": "Paul Walker",
+    "country": "Germany",
+    "availableDates": ["2024-09-19", "2024-09-20"]
+  },
+  {
+    "name": "Quinn Scott",
+    "country": "Germany",
+    "availableDates": ["2024-09-18", "2024-09-19", "2024-09-20"]
   }
-}
+]
+
   
 
