@@ -1,25 +1,38 @@
-[
-  {
-    "name": "John Doe",
-    "country": "USA",
-    "availableDates": ["2024-09-20", "2024-09-21", "2024-09-22"]
-  },
-  {
-    "name": "Jane Smith",
-    "country": "USA",
-    "availableDates": ["2024-09-21", "2024-09-22", "2024-09-23"]
-  },
-  {
-    "name": "Alice Johnson",
-    "country": "Canada",
-    "availableDates": ["2024-09-22", "2024-09-23"]
-  },
-  {
-    "name": "Bob Brown",
-    "country": "Canada",
-    "availableDates": ["2024-09-23", "2024-09-24"]
-  }
-]
+{
+  "partners": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "country": "USA",
+      "availableDates": ["2024-09-20", "2024-09-21", "2024-09-22"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "country": "USA",
+      "availableDates": ["2024-09-21", "2024-09-22", "2024-09-23"]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "country": "Canada",
+      "availableDates": ["2024-09-22", "2024-09-23"]
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "country": "Canada",
+      "availableDates": ["2024-09-23", "2024-09-24"]
+    },
+    {
+      "id": 5,
+      "name": "Ethan Young",
+      "country": "UK",
+      "availableDates": ["2024-09-18", "2024-09-19"]
+    }
+  ]
+}
+
 
   
 
